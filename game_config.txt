@@ -1,0 +1,2 @@
+port,2000
+number_of_players,2
